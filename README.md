@@ -20,7 +20,7 @@ This repository includes multiple `.sql` files that demonstrate different aspect
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sql-demos.git
+   git clone https://github.com/TufanDuzel/sql-demos.git
    ```
 2. Navigate to the directory:
    ```bash
@@ -33,6 +33,3 @@ Contributions are welcome! If you have useful SQL queries to share, feel free to
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or suggestions, feel free to reach out via GitHub Issues or email.
